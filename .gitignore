@@ -1,0 +1,6 @@
+*.txt
+*.tar
+*.pt
+*.man
+.idea
+.DS_Store
